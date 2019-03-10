@@ -1,0 +1,1 @@
+.*(web|for|about|webmd)(?! (for|about)) (?P<ArticleTitle>.+)

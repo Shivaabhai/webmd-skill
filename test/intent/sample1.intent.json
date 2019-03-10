@@ -1,0 +1,8 @@
+{
+  "utterance": "i have a pain what should i do",
+  "intent_type": "handle_intent",
+  "intent": {
+    "webmd": "what i do",
+    "ArticleTitle": "pain"
+  }
+}
